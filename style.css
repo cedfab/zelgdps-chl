@@ -46,9 +46,7 @@ i {
 }
 
 a {
-    font-size: 2em;
-    display: block;
-    text-align: center;
+    font-size: 1em;
     text-decoration: none;
     color: rgb(255, 0, 0);
     transition: 0.5s;
@@ -57,10 +55,11 @@ a {
 a:hover {
     color: rgb(143, 0, 0);
     transition: 0.5s;
-    font-size: 2.3em;
+    font-size: 1.3em;
 }
 
 .center {
+    display: block;
     text-align: center;
     font-size: 2em;
 }
