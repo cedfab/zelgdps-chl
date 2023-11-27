@@ -18,7 +18,7 @@ li {
     margin-left: 1em;
 }
 
-img {
+.gagaga {
     height: 7em;
 }
 
@@ -75,4 +75,7 @@ a:hover {
     font-size: 0.8em;
     transition: 0.5s;
     background-color: #aaa;
+}
+img {    
+    height: 1em;
 }
