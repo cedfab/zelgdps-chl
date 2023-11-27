@@ -77,5 +77,6 @@ a:hover {
     background-color: #aaa;
 }
 .siuu {    
-    height: 0.2em;
+  width: 20%;
+  height: auto;
 }
